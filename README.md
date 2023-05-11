@@ -1,5 +1,5 @@
 # INST377-Final
-Link to Git Hub Live Page:
+Link to Git Hub Live Page: https://ethanmeyer41.github.io/INST377-Final/final.html
 
 Title: Terrapin Maps
 
